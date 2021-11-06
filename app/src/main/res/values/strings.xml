@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">hello world</string>
+    <string name="superman">superman</string>
+    <string name="nombre">clark kent</string>
 </resources>
